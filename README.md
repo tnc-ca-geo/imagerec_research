@@ -2,6 +2,10 @@
 
 compiled by Falk Schuetzenmeister, falk.schuetzenmeister@tnc.org
 
+##Content##
+
+[Ideas] (ideas.md)
+
 ##Classification Data Sets##
 
 Here are some examples for standard classification data sets used for bench marking of machine learning algorithms.
@@ -16,6 +20,13 @@ http://archive.ics.uci.edu/ml/
 ##University Research##
 
 Stanford Vision Lab http://vision.stanford.edu/
+
+##Technology##
+
+Is this a fair description of the technology we are using?
+
+http://www.afsc.noaa.gov/Publications/AFSC-TM/NOAA-TM-AFSC-152.pdf
+http://www.nefsc.noaa.gov/fsb/ems/
 
 ##Software##
 
