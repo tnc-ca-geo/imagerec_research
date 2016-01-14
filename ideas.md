@@ -14,12 +14,13 @@ try to detect the animal independently of the above mentioned activity which had
 to be filtered out. The contrast between the animal and the background seems 
 rather low. However, we should look into this level of complexity before we 
 would spend all the money on a problem that might turn out to be rather trivial.
+But I think it might be **more difficult** than that.
 
-3. **Species detection*:** This is probably where the real challenge lies and where 
+3. **Species detection*:** This is probably where the **real challenge** lies and where 
 we should spend our resources. However, in order to get here we need to present
 a good training data set in order to not put the burden of a lot of grunt work
 on the competing teams (in which case the price might be actually not that
-high.)
+high.) 
 
 ###Goal###
 
