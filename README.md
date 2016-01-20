@@ -51,6 +51,8 @@ http://www.nefsc.noaa.gov/fsb/ems/
 
 This is the actual provider http://www.archipelago.ca/
 
+Software product used http://www.archipelago.ca/fisheries-monitoring/electronic-monitoring/em-interpret/
+
 ##Software##
 
 ###OpenCV###
