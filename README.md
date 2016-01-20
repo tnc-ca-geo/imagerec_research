@@ -6,6 +6,12 @@ compiled by Falk Schuetzenmeister, falk.schuetzenmeister@tnc.org
 
 [Ideas] (ideas.md)
 
+[Questions] (questions.md)
+
+[Terms and Techniques] (techniques.md)
+
+[Lab Notes] (experimental.md)
+
 ##Classification Data Sets##
 
 Here are some examples for standard classification data sets used for bench marking of machine learning algorithms.
@@ -16,10 +22,24 @@ UCI Machine Learning Repository (this one does not have a lot of image data)
 
 http://archive.ics.uci.edu/ml/
 
+The Stanford University runs image-net.org which is a classified 
+hierarchy of images. Among them hundreds (1299, found out how many). 
+Images of tuna. ***Maybe we could use those for training*** and only 
+apply the resulting product to the videos.
+
 
 ##University Research##
 
 Stanford Vision Lab http://vision.stanford.edu/
+
+University of North Carolina Chapel Hill 
+http://vision.cs.unc.edu/index.html
+
+This article claims that the team could differentiate between four 
+species of fish by 99.6% accuracy. 
+http://www.kurzweilai.net/a-smart-object-recognition-algorithm-that-doesnt-need-humans
+
+http://www.sciencedirect.com/science/article/pii/S0031320313002549
 
 ##Technology##
 
