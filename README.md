@@ -49,6 +49,8 @@ Is this a fair description of the technology we are using?
 http://www.afsc.noaa.gov/Publications/AFSC-TM/NOAA-TM-AFSC-152.pdf
 http://www.nefsc.noaa.gov/fsb/ems/
 
+This is the actual provider http://www.archipelago.ca/
+
 ##Software##
 
 ###OpenCV###
