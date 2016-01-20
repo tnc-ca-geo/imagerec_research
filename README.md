@@ -22,11 +22,12 @@ UCI Machine Learning Repository (this one does not have a lot of image data)
 
 http://archive.ics.uci.edu/ml/
 
+http://mlcomp.org/
+
 The Stanford University runs image-net.org which is a classified 
 hierarchy of images. Among them hundreds (1299, found out how many). 
 Images of tuna. ***Maybe we could use those for training*** and only 
 apply the resulting product to the videos.
-
 
 ##University Research##
 
@@ -52,7 +53,11 @@ http://www.nefsc.noaa.gov/fsb/ems/
 
 ###OpenCV###
 
+http://opencv.org
+
 ###Tensorflow###
+
+https://www.tensorflow.org/
 
 ##Fulltext##
 
@@ -60,6 +65,17 @@ http://www.nefsc.noaa.gov/fsb/ems/
 
 Camastra, F., Vinciarelli, A., 2007. Machine Learning for Audio, Image and Video Analysis. http://www.dcs.gla.ac.uk/~vincia/textbook.pdf 
 
+###Research Gate Papers (free login required)###
+
+Underwater fish detection (similar to my work but statistical more sound)
+
+https://www.researchgate.net/publication/224744960_Detecting_fish_in_underwater_video_using_the_EM_algorithm
+
 ###Stack (unchecked links)###
 
 http://vision.stanford.edu/pdf/ZhaoFeiFeiXing_CVPR2011.pdf
+
+http://repository.upenn.edu/cgi/viewcontent.cgi?article=1032&context=cis_papers
+
+http://homepages.inf.ed.ac.uk/rbf/PAPERS/FinalCameraReadyVISAPP08.pdf
+
