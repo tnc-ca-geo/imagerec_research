@@ -34,10 +34,12 @@ apply the resulting product to the videos.
 Stanford Vision Lab http://vision.stanford.edu/
 
 University of North Carolina Chapel Hill 
+
 http://vision.cs.unc.edu/index.html
 
 This article claims that the team could differentiate between four 
 species of fish by 99.6% accuracy. 
+
 http://www.kurzweilai.net/a-smart-object-recognition-algorithm-that-doesnt-need-humans
 
 http://www.sciencedirect.com/science/article/pii/S0031320313002549
@@ -47,6 +49,7 @@ http://www.sciencedirect.com/science/article/pii/S0031320313002549
 Is this a fair description of the technology we are using?
 
 http://www.afsc.noaa.gov/Publications/AFSC-TM/NOAA-TM-AFSC-152.pdf
+
 http://www.nefsc.noaa.gov/fsb/ems/
 
 This is the actual provider http://www.archipelago.ca/
