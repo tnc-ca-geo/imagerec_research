@@ -24,7 +24,7 @@ http://archive.ics.uci.edu/ml/
 
 http://mlcomp.org/
 
-The Stanford University runs image-net.org which is a classified 
+The Stanford University runs [image-net.org] (http://image-net.org) which is a classified 
 hierarchy of images. Among them hundreds (1299, found out how many). 
 Images of tuna. ***Maybe we could use those for training*** and only 
 apply the resulting product to the videos.
