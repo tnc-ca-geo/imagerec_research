@@ -60,6 +60,8 @@ This is the actual provider http://www.archipelago.ca/
 
 http://opencv.org
 
+See also PyImageSearch http://www.pyimagesearch.com/
+
 ###Tensorflow###
 
 https://www.tensorflow.org/
