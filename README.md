@@ -12,6 +12,8 @@ compiled by Falk Schuetzenmeister, falk.schuetzenmeister@tnc.org
 
 [Lab Notes] (experimental.md)
 
+[Observer Data] (observer_data.md)
+
 ##Classification Data Sets##
 
 Here are some examples for standard classification data sets used for bench marking of machine learning algorithms.
@@ -24,7 +26,7 @@ http://archive.ics.uci.edu/ml/
 
 http://mlcomp.org/
 
-The Stanford University runs image-net.org which is a classified 
+The Stanford University runs [image-net.org] (http://image-net.org) which is a classified 
 hierarchy of images. Among them hundreds (1299, found out how many). 
 Images of tuna. ***Maybe we could use those for training*** and only 
 apply the resulting product to the videos.
@@ -34,10 +36,12 @@ apply the resulting product to the videos.
 Stanford Vision Lab http://vision.stanford.edu/
 
 University of North Carolina Chapel Hill 
+
 http://vision.cs.unc.edu/index.html
 
 This article claims that the team could differentiate between four 
 species of fish by 99.6% accuracy. 
+
 http://www.kurzweilai.net/a-smart-object-recognition-algorithm-that-doesnt-need-humans
 
 http://www.sciencedirect.com/science/article/pii/S0031320313002549
@@ -47,6 +51,7 @@ http://www.sciencedirect.com/science/article/pii/S0031320313002549
 Is this a fair description of the technology we are using?
 
 http://www.afsc.noaa.gov/Publications/AFSC-TM/NOAA-TM-AFSC-152.pdf
+
 http://www.nefsc.noaa.gov/fsb/ems/
 
 This is the actual provider http://www.archipelago.ca/
@@ -58,6 +63,8 @@ Software product used http://www.archipelago.ca/fisheries-monitoring/electronic-
 ###OpenCV###
 
 http://opencv.org
+
+See also PyImageSearch http://www.pyimagesearch.com/
 
 ###Tensorflow###
 

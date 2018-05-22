@@ -18,4 +18,4 @@ these videos to the actual length.
 
 ##Questions for check-in##
 
-1. Species list, is it mostly blue fin or yellow fin
+1. Species list, is it mostly blue fin and/or yellow fin
